@@ -1,0 +1,17 @@
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\MediaAluno\MediaAluno\obj\Debug\net8.0-windows\MediaAluno.Form1.resources
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\MediaAluno\MediaAluno\obj\Debug\net8.0-windows\MediaAluno.FormNovoAluno.resources
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\MediaAluno\MediaAluno\obj\Debug\net8.0-windows\MediaAluno.csproj.GenerateResource.cache
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\MediaAluno\MediaAluno\obj\Debug\net8.0-windows\MediaAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\MediaAluno\MediaAluno\obj\Debug\net8.0-windows\MediaAluno.AssemblyInfoInputs.cache
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\MediaAluno\MediaAluno\obj\Debug\net8.0-windows\MediaAluno.AssemblyInfo.cs
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\MediaAluno\MediaAluno\obj\Debug\net8.0-windows\MediaAluno.csproj.CoreCompileInputs.cache
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\MediaAluno\MediaAluno\bin\Debug\net8.0-windows\MediaAluno.exe
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\MediaAluno\MediaAluno\bin\Debug\net8.0-windows\MediaAluno.deps.json
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\MediaAluno\MediaAluno\bin\Debug\net8.0-windows\MediaAluno.runtimeconfig.json
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\MediaAluno\MediaAluno\bin\Debug\net8.0-windows\MediaAluno.dll
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\MediaAluno\MediaAluno\bin\Debug\net8.0-windows\MediaAluno.pdb
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\MediaAluno\MediaAluno\obj\Debug\net8.0-windows\MediaAluno.dll
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\MediaAluno\MediaAluno\obj\Debug\net8.0-windows\refint\MediaAluno.dll
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\MediaAluno\MediaAluno\obj\Debug\net8.0-windows\MediaAluno.pdb
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\MediaAluno\MediaAluno\obj\Debug\net8.0-windows\MediaAluno.genruntimeconfig.cache
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\MediaAluno\MediaAluno\obj\Debug\net8.0-windows\ref\MediaAluno.dll
